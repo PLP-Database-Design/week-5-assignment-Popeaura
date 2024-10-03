@@ -68,5 +68,5 @@ app.get('/providers/specialty', (req, res) => {
 // listen to the server
 const PORT = 3000
 app.listen(PORT, () => {
-  console.log(`server is runnig on http://localhost:${PORT}`)
+  console.log(`server is running on http://localhost:${PORT}`)
 })
